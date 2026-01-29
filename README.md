@@ -5,9 +5,9 @@
 #### Web Apps(CRUD Systems)
 <div align="center">
 
-<img src="FIles/HTML5.svg"  width="80" height="80" alt="html_5"/>
-<img src="FIles/CSS3.svg"   width="80" height="80" alt="css3"/>
-<img src="FIles/JS.svg"     width="80" height="80" alt="JS"/> 
+<img src="Files/HTML5.svg"  width="80" height="80" alt="html_5"/>
+<img src="Files/CSS3.svg"   width="80" height="80" alt="css3"/>
+<img src="Files/JS.svg"     width="80" height="80" alt="JS"/> 
 <img src="Files/PHP.svg"    width="80" height="80" alt="php logo"/>
 <img src="Files/Mysql.svg"    width="80" height="80" alt="Mysql"/>
 <img src="Files/REACT.svg"  witdh="80" height="80" alt="react logo"  />
@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="FIles/HTML5.svg" width="350" />
+      <img src="Files/HTML5.svg" width="350" />
 
     
 </td>
@@ -53,7 +53,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="FIles/HTML5.svg" width="350" />
+      <img src="Files/HTML5.svg" width="350" />
     </td>
     <td align="center">
       <img src="Files/HTML5.svg" width="350"/>
@@ -80,7 +80,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="FIles/HTML5.svg" width="350" />
+      <img src="Files/HTML5.svg" width="350" />
     </td>
     <td align="center">
       <img src="Files/HTML5.svg" width="350"/>
@@ -109,7 +109,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="FIles/HTML5.svg" width="350" />
+      <img src="Files/HTML5.svg" width="350" />
     </td>
     <td align="center">
       <img src="Files/HTML5.svg" width="350"/>
@@ -137,7 +137,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="FIles/HTML5.svg" width="350" />
+      <img src="Files/HTML5.svg" width="350" />
     </td>
     <td align="center">
       <img src="Files/HTML5.svg" width="350"/>
@@ -153,9 +153,13 @@
   </tr>
 </table>
 </div>
+
 ##### IA & OpenCV 
+
 ##### Big Data
+
 ##### Social Media 
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
