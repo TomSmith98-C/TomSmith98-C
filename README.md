@@ -72,7 +72,7 @@
 
  ##### IOS / Android Apps 
 <div align="center">
-  <img src="/Files/androidStudio.svg" height="80" alt="Androi Studio"/>
+  <img src="/Files/AndroidStudio.svg" height="80" alt="Androi Studio"/>
   <img src="/Files/Swift.svg" height="80" alt="Swift"/>
   <img src="/Files/Xcode.svg" height="80" alt="Xcode"/>
 </div>
