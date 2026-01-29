@@ -1,5 +1,6 @@
 # Project Portfolio Management
 ## About Me 
+Ingeniero Mecatrónico con experiencia en el sector Automotriz, experto en conocimientos de automatización y control Industrial.
 ## Principal Projects
 
 #### Web Apps(CRUD Systems)
